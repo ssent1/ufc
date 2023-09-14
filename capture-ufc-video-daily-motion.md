@@ -6,13 +6,25 @@
 
 - [Capture UFC Video](#capture-ufc-video)
 - [Contents](#contents)
-   - [Dood HD](#dood-hd)
-   - [NetU](#netu)
-   - [Dailymotion HD](#dailymotion-hd)
-   - [PvP HD](#pvp-hd)
+   - [Source URL](#source-url)
+   - [Players](#players)
+      - [Dood HD](#dood-hd)
+      - [NetU](#netu)
+      - [Dailymotion HD](#dailymotion-hd)
+      - [PvP HD](#pvp-hd)
    - [Parse Daily Motion URLs](#parse-daily-motion-urls)
 
-## Dood HD
+## Source URL
+
+```vim
+                                            vID        " player         
+https://www.dailymotion.com/embed/video/    [w{19}]    " Dailymotion    
+https://dood.yt/d/                          [w{12}]    " Dood           
+```
+
+## Players
+
+### Dood HD
 
 Format: Prelims Part 1 Part 2 Part 3
 Base URL: <https://dengerdj.net/cgi/do.php?v=cxhnajk7u1zv>
@@ -20,14 +32,14 @@ Source: <https://dood.yt/d/cxhnajk7u1zv>
 
 N.B. The video player has limited playback functionality.
 
-## NetU
+### NetU
 
 Format: Prelims Part 1 Part 2 Part 3
 Base URL: <https://dengerdj.net/cgi/wa.php?v=7L95z6rpBbsY>
 
 N.B. Overlay play button. Playback speed flaky.
 
-## Dailymotion HD
+### Dailymotion HD
 
 > www.android-devs.top refused to connect.
 
@@ -37,7 +49,7 @@ Format: Prelims Part 1 Part 2 Part 3
 <https://www.m2list.com/2023update/embed.php?mirror=fscrep_2&mainid=20230826UPR> ==> This page will work only inside embed page.
 <https://www.dailymotion.com/embed/20230826UPR/> ==> Page not found
 
-## PvP HD
+### PvP HD
 
 > www.android-devs.top refused to connect.
 
@@ -75,4 +87,4 @@ x  " watched
 Tags: ufc
 
 ^ 2020-10-05T21:20:25-0400\
-% 2023-08-27T22:34:28-0400
+% 2023-09-05T12:05:26-0400

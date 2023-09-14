@@ -30,6 +30,8 @@ Today, 10:00 p.M.
 | √ | e | Bantamweight      | Cameron Saaiman           | _Christian Rodriguez_ |     |     |      | cancelled         |
 
 - - -
+<!-- fights -->
+
 <!-- sources -->
 
 [1]: https://en.wikipedia.org/wiki/List_of_UFC_events "List of UFC events"
@@ -62,4 +64,4 @@ m:ss  # time; 5 <= 5
 Tags: 
 
 ^ 2023-07-09T19:12:35-0400\
-% 2023-08-27T21:28:24-0400
+% 2023-09-05T12:38:03-0400
